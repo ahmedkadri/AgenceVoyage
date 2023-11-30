@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=..\\Agence_Voyage_WebUI\\AgenceVoyage.db;"
+  }
+}
