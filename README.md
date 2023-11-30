@@ -64,3 +64,7 @@ pour tester avec Graphiql ouvrir url http://localhost:4000/graphql et ajouter ce
 > pour lancer tous les projet locale pour la patie react sur la console lancer la cmd ***npm start***
 > et pour la partie back il faut lancer les 2 projets **Agence_Voyage_Graphql** et **Agence_Voyage_WebUI** en parallèle !
 > voici des Screenshot :
+
+![Screenshot](screenshot_1.png)
+
+![Screenshot](screenshot_2.png)
